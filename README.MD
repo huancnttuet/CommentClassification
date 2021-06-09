@@ -1,4 +1,4 @@
-### COMMENT RATE PROJECT
+### COMMENT CLASSIFICATION PROJECT
 
 1.  `py -m venv venv`
 
@@ -10,6 +10,8 @@
 
     `cd ..\..`
 
-2.  `pip install -e .`
+2.  `py setup.py install` (run as adminstrator)
 
-3.  `pip install -r requirements.txt`
+3.  `pip install -e .`
+
+4.  `pip install -r requirements.txt`

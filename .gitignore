@@ -3,3 +3,5 @@ venv3.5
 __pycache__
 outputs
 CommentRate.egg-info
+build
+dist
